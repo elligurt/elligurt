@@ -5,3 +5,5 @@
 - i modify code to make it better for me and other people
 - he/him
 - fun fact is.. i like singing when im bored! :3
+
+![Statistic Page](https://github-readme-stats.vercel.app/api?username=elliotsilly&show_icons=true&theme=dark)
