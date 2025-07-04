@@ -5,4 +5,4 @@ hello im elliot!
 - i hope to someday make a fun interactable mod with someone!
 - i need to learn asset bundles a lot so if anyone can help me please reach out to me!! @elligurt on discord. 
 
-![Statistic Page](https://github-readme-stats.vercel.app/api?username=elliotsilly&show_icons=true&theme=dark)
+![Statistic Page](https://github-readme-stats.vercel.app/api?username=elligurt&show_icons=true&theme=dark)
