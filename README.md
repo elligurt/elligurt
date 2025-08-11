@@ -1,4 +1,5 @@
-hello im elliot! 
+hello im elliot! <img width="128" height="128" alt="discord cat sticker" src="https://github.com/user-attachments/assets/2e49506c-409b-48b5-bf54-b350c9925754" />
+
 
 - started learning c# late 2024
 - i love QoL type mods
