@@ -1,6 +1,6 @@
 hello im elliot!
 
-- highschool student making dumb little mods for the popular VR game Gorilla Tag
+- highschool student making dumb little mods for the popular VR game [**Gorilla Tag**](https://www.gorillatagvr.com/)
 - started learning c# late 2024
 - i love QoL type mods
 
