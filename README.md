@@ -9,7 +9,6 @@ hello im elliot!
   
 <img src="https://count.getloli.com/get/@elligurt?theme=asoul" alt="Total Visitors">
 
-![Statistic Page](https://github-readme-stats.vercel.app/api?username=elligurt&show_icons=true&theme=dark) 
 
 
 
